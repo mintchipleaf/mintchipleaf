@@ -43,7 +43,7 @@
             animation-name: blob-rise;
             animation-timing-function: ease-in-out;
             fill: #5c5987;
-            opacity: 0.9;
+            opacity: 1;
         }
     </style>
     <g class="lava">
