@@ -1,1 +1,1 @@
-<img src="assets/mintlava.svg">
+<a href="http://mintchipleaf.com"><img src="assets/mintlava.svg"></a>
